@@ -1,2 +1,2 @@
-# Loan-Application-Status-Prediction-
+# Loan-Application-Status-Prediction
 Loan Application Prediction.
